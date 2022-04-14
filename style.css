@@ -7,11 +7,6 @@ body{
 h1{
     font-size: 40px;
 }
-h2{
-    text-align: center;
-    padding-top: 10%;
-    font-size: 40px;
-}
 
 .half-width{
     width: 30%;
@@ -43,6 +38,9 @@ h2{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
 }
+.client-banner{
+    background-image: url("images/footer-bg.png");
+}
 section{
     height: 500px;
 }
@@ -57,4 +55,17 @@ section{
 }
 .color-highlights{
     color: rgb(221, 68, 119);
+}
+.client-area1{
+    text-align: center;
+}
+.client-area2{
+   text-align: center;
+   color: brown;
+   background-color: blue;
+    background-position: center;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
